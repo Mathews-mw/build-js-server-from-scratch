@@ -2,13 +2,12 @@ This is a project created only with pure javascript.
 
 ## About
 
-Esse projeto é um entendimento de como montar um servidor usando apenas recursos nativos do NodeJS, sem bibliotecas externas. 
+This project is an understanding of how to build a server using only native NodeJS resources, without external libraries.
 
-As principais abordagens são:
-
-- Servidor HTTP;
-- Node Streamings;
-- Persistir dados localmente;
+The main approaches are:
+- HTTP server;
+- Node Streaming;
+- Persist data locally;
 
 ## Getting Started
 
